@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Uau
 - 📫 How to reach me @mtskirsch on instagram
 - 😄 Pronouns: him
-- ⚡ Fun fact: i'm veteran.
+- ⚡ Fun fact: i was in the military as a lieutenant, but right now i'm a veteran.
 
 <!---
 Kirschmf/Kirschmf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
