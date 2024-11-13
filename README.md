@@ -5,5 +5,5 @@
 - ⚡ Fun fact: I was in the military, as a lieutenant, but right now i'm a disciplined veteran in love with tecnology and WEB Development.
 
 #### 💻 Technologies that I use
-![HTML5](./assets/html.svg) ![CSS3](./assets/css.svg) ![Bootstrap](./assets/bootstrap.svg) ![TailwindCSS](./assets/tailwind.svg) ![JavaScript](./assets/javascript.svg) ![React](./assets/react.svg)
+![HTML5](./assets.html.svg) ![CSS3](./assets/css.svg) ![Bootstrap](./assets/bootstrap.svg) ![TailwindCSS](./assets/tailwind.svg) ![JavaScript](./assets/javascript.svg) ![React](./assets/react.svg)
 
