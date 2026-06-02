@@ -38,9 +38,9 @@ My strongest work sits at the intersection of frontend engineering, commerce wor
 
 | Project | What it shows | Stack |
 | --- | --- | --- |
-| [truthcommerce](https://github.com/Kirschmf/truthcommerce) | Institutional website for Truth Commerce with polished motion, 3D visual sections, routing, observability and tests. | React 19, Vite, Tailwind CSS, Three.js, GSAP, Vitest, Playwright |
+| [truthcommerce](https://github.com/Kirschmf/truthcommerce) / [Live](https://truthcommerce.vercel.app) | Institutional website for Truth Commerce with polished motion, 3D visual sections, routing, observability and tests. | React 19, Vite, Tailwind CSS, Three.js, GSAP, Vitest, Playwright |
 | [Property-Pulse---Project](https://github.com/Kirschmf/Property-Pulse---Project) | Real estate platform project with authentication, database modeling and a modern Next.js app structure. | Next.js, React, MongoDB, Mongoose, NextAuth, Tailwind CSS |
-| [RID180910_Desafio05-](https://github.com/Kirschmf/RID180910_Desafio05-) | Full-stack study project with form handling, component primitives, validation and API-oriented UI work. | Next.js, TypeScript, Radix UI, React Hook Form, Zod, Axios |
+| [RID180910_Desafio05-](https://github.com/Kirschmf/RID180910_Desafio05-) / [Live](https://v0-desafio05-frontmain.vercel.app) | Full-stack study project with form handling, component primitives, validation and API-oriented UI work. | Next.js, TypeScript, Radix UI, React Hook Form, Zod, Axios |
 
 I also maintain private and client-facing work around commerce websites, Nuvemshop themes, business landing pages and product catalog experiences.
 
