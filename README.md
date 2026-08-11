@@ -79,8 +79,8 @@ Platform that takes a raw product spreadsheet and turns it into publish-ready ma
 ## GitHub Snapshot
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kirschmf&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" alt="Matheus Kirsch GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirschmf&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Most used languages" />
+  <img height="165" src="https://kirschmf-readme-stats.vercel.app/api?username=Kirschmf&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" alt="Matheus Kirsch GitHub stats" />
+  <img height="165" src="https://kirschmf-readme-stats.vercel.app/api/top-langs/?username=Kirschmf&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Most used languages" />
 </p>
 
 ---
