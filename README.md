@@ -1,8 +1,14 @@
 <h1 align="center">Matheus Kirsch</h1>
 
 <p align="center">
-  Full-stack developer building commerce products with TypeScript, React, Next.js and Node.js.<br />
-  Founder-engineer at <a href="https://github.com/Truth-Commerce">Truth Commerce</a> — e-commerce intelligence, automation and storefronts for Brazilian sellers.
+  Full-stack developer · Websites, SaaS &amp; Automation<br />
+  Building web experiences and business tools with TypeScript, React, Next.js and Node.js.
+</p>
+
+<p align="center">
+  Porto Alegre, Brazil ·
+  <a href="mailto:makfonseca@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/kirschmf/">LinkedIn</a>
 </p>
 
 <p align="center">
@@ -18,46 +24,48 @@
 
 ## About
 
-I am a full-stack developer from Porto Alegre, Brazil. I build the products behind Truth Commerce: SaaS tools that turn marketplace data into decisions, AI pipelines that produce ready-to-publish product listings, and storefronts that real clients operate every day.
+I am a full-stack developer from Porto Alegre, Brazil. I build websites, e-commerce experiences, integrations and applications that help businesses present their work and simplify daily operations.
 
-My work covers the whole loop — product thinking, architecture, implementation, testing and production operation — with a strong bias for typed contracts, automated tests and systems that survive real clients and real deadlines.
+My experience spans frontend development, backend services, database modeling, API integrations and AI-assisted automation. I work from understanding the problem through implementation, testing and deployment, with attention to clear interfaces and maintainable code.
 
-## Flagship Projects
+## What I Build
 
-### [Truth Analytics](https://github.com/Truth-Commerce/truth-analytics) — AI marketplace intelligence SaaS
+- **Websites and landing pages** — responsive business websites, portfolios and custom interfaces.
+- **E-commerce experiences** — storefronts and theme customization for Nuvemshop, Shopify and Tray.
+- **Automation and integrations** — API connections, ERP workflows and tools that reduce repetitive work.
+- **Web applications and SaaS** — dashboards, authentication, business rules and database-backed products.
 
-Multi-tenant SaaS that unifies a seller's sales across Mercado Livre, Shopee, Amazon and their own store (via Bling API v3), benchmarks the market and generates AI-written reports with metrics, a proprietary Truth Score and action plans — the engine behind Truth Commerce's consulting operation.
-
-- Yearly performance dashboards, Mercado Livre Ads module and annual goal tracking
-- AI analysis pipeline (Claude with structured outputs) with anti-hallucination safeguards
-- Multi-tenant by design: every query is org-scoped, with static guards enforced by tests
-- **Stack:** Next.js (App Router), TypeScript strict, Drizzle + PostgreSQL (Neon), Auth.js v5, Recharts, react-pdf, Vitest + Playwright
-
-### AUTOMATRUTH — AI listing factory <sub>(Truth Commerce internal product)</sub>
-
-Platform that takes a raw product spreadsheet and turns it into publish-ready marketplace listings: matches each product on Mercado Livre, writes the copy with AI, generates four product images per item and exports the finished listing straight into the client's ERP (Bling or Olist/Tiny).
-
-- Image pipeline combining OpenAI image models with a deterministic text compositor (Satori + resvg + sharp) for accent-perfect Portuguese cards
-- Multi-team background worker with fair per-owner queueing and rate limiting
-- Client account system with usage ledgers, margins report and role-based UI
-- 1,000+ tests; in production, used daily by the Truth Commerce team and clients
-- **Stack:** Next.js (App Router), React, TypeScript, Prisma + PostgreSQL (Supabase), Vitest
-- **Ecosystem I also built:** an autonomous CLI pilot that runs the text queue end-to-end (generate → validate → approve, 111 tests) and a batch image-generation CLI for product photo sets
-
-## More Truth Commerce Work
-
-- **truth-2fa** — two-factor authentication service for the Truth Commerce operation, live in production (TypeScript, private)
-- **Storefronts and themes** — premium reskins and custom themes for client stores on Nuvemshop, Shopify and Tray, delivered end-to-end (design system, CSS/JS, QA on live previews)
-
-## Open Repositories
+## Selected Repositories
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [truthcommerce](https://github.com/Kirschmf/truthcommerce) · [Live](https://truthcommerce.vercel.app) | Institutional website for Truth Commerce with motion design, 3D sections and tests | React, Vite, Tailwind CSS, Three.js, GSAP, Vitest, Playwright |
-| [kirschbrain](https://github.com/Kirschmf/kirschbrain) | Web reader for a markdown knowledge vault that reports the freshness and debt of each document | Node.js, JavaScript |
+| [MKF Solutions](https://github.com/Kirschmf/mkf-solutions) | Business website and portfolio for web development, automation and e-commerce services | TypeScript |
 | [nuvemshop-skins](https://github.com/Kirschmf/nuvemshop-skins) | Reusable CSS/JS skins for Nuvemshop storefronts | JavaScript, CSS |
-| [Property-Pulse](https://github.com/Kirschmf/Property-Pulse---Project) | Real estate platform with authentication and database modeling | Next.js, MongoDB, NextAuth, Tailwind CSS |
-| [RID180910_Desafio05](https://github.com/Kirschmf/RID180910_Desafio05-) · [Live](https://v0-desafio05-frontmain.vercel.app) | Full-stack challenge with form handling, validation and API-oriented UI | Next.js, TypeScript, Radix UI, Zod |
+| [kirschbrain](https://github.com/Kirschmf/kirschbrain) | Web reader for a Markdown knowledge vault with document freshness tracking | Node.js, JavaScript |
+| [Property-Pulse](https://github.com/Kirschmf/Property-Pulse---Project) | Real estate platform project with authentication and database modeling | Next.js, MongoDB, NextAuth, Tailwind CSS |
+| [truthcommerce](https://github.com/Kirschmf/truthcommerce) | Institutional website developed for Truth Commerce, with motion design and 3D sections | React, Vite, Tailwind CSS, Three.js, GSAP |
+| [RID180910_Desafio05](https://github.com/Kirschmf/RID180910_Desafio05-) | Full-stack learning project with forms, validation and API integration | Next.js, TypeScript, Radix UI, Zod |
+
+## Selected Experience
+
+### Commerce and automation products at Truth Commerce
+
+Previously built products for marketplace analytics, listing automation and client storefronts at Truth Commerce. This work included:
+
+**Truth Analytics — marketplace intelligence SaaS**
+
+- Consolidated sales data through Bling API v3, with performance dashboards, goal tracking and AI-assisted reports.
+- Implemented organization-scoped data access and structured AI outputs with validation.
+- **Stack:** Next.js, TypeScript, Drizzle, PostgreSQL, Auth.js, Recharts, Vitest and Playwright.
+
+**AUTOMATRUTH — marketplace listing automation**
+
+- Built workflows that transformed product spreadsheets into marketplace listings, combining product matching, AI-generated copy and images, and exports to Bling and Olist/Tiny.
+- Developed background processing, queue management, account permissions and usage tracking.
+- Combined image generation with deterministic text rendering for product cards.
+- **Stack:** Next.js, React, TypeScript, Prisma, PostgreSQL, Vitest, Satori and sharp.
+
+Additional work included a two-factor authentication service, CLI automation tools and custom storefront themes. Some of these projects are private; the descriptions summarize my previous work.
 
 ## Core Stack
 
@@ -71,10 +79,10 @@ Platform that takes a raw product spreadsheet and turns it into publish-ready ma
 
 ## Engineering Principles
 
-- Ship products, not demos: every project above runs in production for real users.
-- Keep architecture simple until complexity earns its place.
-- Typed contracts at every boundary; tests before merge, evidence before "done".
-- AI is a tool in the pipeline, with safeguards — never an excuse for wrong numbers.
+- Start with the business problem and keep architecture as simple as the product allows.
+- Use typed contracts, automated tests and clear validation at system boundaries.
+- Treat usability, deployment and maintenance as part of the delivery.
+- Validate AI outputs before they become business data or customer-facing content.
 
 ## GitHub Snapshot
 
@@ -86,5 +94,7 @@ Platform that takes a raw product spreadsheet and turns it into publish-ready ma
 ---
 
 <p align="center">
-  Porto Alegre, Brazil · <a href="mailto:makfonseca@gmail.com">makfonseca@gmail.com</a>
+  Have a website, integration, automation or web application in mind?<br />
+  <a href="mailto:makfonseca@gmail.com">makfonseca@gmail.com</a> ·
+  <a href="https://www.linkedin.com/in/kirschmf/">LinkedIn</a>
 </p>
